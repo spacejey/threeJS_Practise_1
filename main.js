@@ -26,7 +26,7 @@ const sizes = {
 //Light
 const light = new THREE.PointLight(0xffffff, 100, 100)
 light.position.set(0, 10, 10)
-light.intensity = 200
+light.intensity = 300
 scene.add(light)
 
 //Camera
